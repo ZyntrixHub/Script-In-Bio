@@ -6,4 +6,4 @@ Oh and btw u would have the option to load which script pet spawner or pet duper
 Have fun using the script
 
 Script:
-loadstring(game:HttpGet("https://raw.githubusercontent.com/BGSISCRIPTS/GROWAGARDENSCRIPT/refs/heads/main/GROW%20A%20GARDEN"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ZyntrixHub/Grow-A-Garden-/refs/heads/main/Loader"))()
